@@ -5,4 +5,4 @@ Foundations course.
 
 ## What it does
 
-This folderm contains the lesson 1.1-1.10 coursework.
+This folder contains the lesson 1.1-1.10 coursework.
