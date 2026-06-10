@@ -1,8 +1,14 @@
-# Module 01 Data analytics foundations and statistics
+# Northstar Module 1: Foundations of Data Analytics & Statistics
 
-A module course and coursework Coding Temple's AI Data Analytics
-Foundations course.
+Lesson work and module project for Module 1 of Coding Temple's AI Data
+Analytics Foundations course at Northstar Data Group.
 
-## What it does
+## Lessons
 
-This folder contains the lesson 1.1-1.10 coursework.
+- `lesson-1-1-analyst-mindset/`. Lifecycle worksheets for the
+  NorthwoodFresh and Brewbird scenarios
+- `lesson-1-2-types-of-data/`. Synthetic dataset generation practice
+
+## Module Project
+
+To be added at the end of the module.
